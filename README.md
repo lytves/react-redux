@@ -6,5 +6,5 @@ Project was created according to the video lesson ["Курс React / Redux-пр�
 ![](images/1.png)
 ![](images/2.png)
 
-###Redux working scheme:
+### Redux working scheme:
 ![](images/3.png)
